@@ -4,7 +4,7 @@ IN DEPTH read for
 * what is module scope how it is different from functional and block scope ,
 * what are major implementations of module system is js {  common js and ESM( ecmascript modules written by TC-39) } ,
 
-* most important , how actually this modern ESM is working under the hood !!!!!!!!
+* most important , how actually this modern ESM is working under the hood !!!!!!!! { data structure used here is called `Module Records` }
 
 
 
